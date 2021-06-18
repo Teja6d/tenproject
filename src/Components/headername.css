@@ -1,0 +1,8 @@
+.headername{
+    width:50px;
+    font-style: italic;
+    color: coral;
+}
+h1::first-letter{
+    color: black;
+}
